@@ -4,7 +4,7 @@
 
 `npm i all-object-keys-deep -S`
 
-## Hot to use?
+## Usage example
 
 ```js
 var keys = require('all-object-keys-deep');
