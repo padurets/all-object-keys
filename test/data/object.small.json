@@ -1,0 +1,14 @@
+{
+    "name": {
+        "first": "Joseph",
+        "last": "Raketov"
+    },
+    "age": 24,
+    "eyeColor": "red",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Alex Shakirov"
+      }
+    ]
+}
