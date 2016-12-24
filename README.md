@@ -1,4 +1,6 @@
 # object-end-keys
+[![Build Status](https://travis-ci.org/padurets/object-end-keys.svg?branch=master)](https://travis-ci.org/padurets/object-end-keys)
+[![Coverage Status](https://coveralls.io/repos/github/padurets/object-end-keys/badge.svg?branch=master)](https://coveralls.io/github/padurets/object-end-keys?branch=master)
 
 ## Install
 
