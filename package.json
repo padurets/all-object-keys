@@ -11,7 +11,8 @@
   "scripts": {
     "debug": "node --inspect test/debug.js",
     "test": "colortape test",
-    "report": "nyc npm test && nyc report --reporter=text-lcov | coveralls"
+    "coverage": "nyc npm test",
+    "report": "nyc report --reporter=text-lcov | coveralls"
   },
   "repository": {
     "type": "git",
@@ -33,6 +34,7 @@
   "homepage": "https://github.com/padurets/object-end-keys#readme",
   "devDependencies": {
     "colortape": "^0.1.2",
+    "coveralls": "^2.11.15",
     "nyc": "^10.0.0"
   },
   "dependencies": {
