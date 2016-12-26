@@ -1,6 +1,6 @@
 {
   "name": "all-object-keys-deep",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "description": "recursive get all keys of object",
   "main": "./lib/all-object-keys-deep.js",
   "directories": {
@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/padurets/all-object-keys-deep.git"
+    "url": "git+https://github.com/padurets/object-end-keys.git"
   },
   "keywords": [
     "json",
@@ -48,9 +48,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/padurets/all-object-keys-deep/issues"
+    "url": "https://github.com/padurets/object-end-keys/issues"
   },
-  "homepage": "https://github.com/padurets/all-object-keys-deep#readme",
+  "homepage": "https://github.com/padurets/object-end-keys#readme",
   "devDependencies": {
     "babel-cli": "^6.14.0",
     "babel-preset-es2015": "^6.14.0",

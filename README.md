@@ -1,3 +1,5 @@
+### WARNING! Package Is deprecated. Use the v3: [object-end-keys](https://github.com/padurets/object-end-keys)
+
 # all-object-keys-deep
 
 ## Install
