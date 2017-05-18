@@ -1,6 +1,6 @@
 {
   "name": "object-end-keys",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "get all end keys of object",
   "main": "./lib/object-end-keys.js",
   "babel": {
